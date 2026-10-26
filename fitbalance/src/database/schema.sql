@@ -1,5 +1,3 @@
-
-
 -- 1. Tabla: usuarios
 CREATE TABLE usuarios (
     id_usuario SERIAL PRIMARY KEY,
